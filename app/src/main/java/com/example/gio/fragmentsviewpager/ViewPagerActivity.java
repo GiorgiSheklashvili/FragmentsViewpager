@@ -50,7 +50,7 @@ public class ViewPagerActivity extends AppCompatActivity {
             public void onPageSelected(int position) {
 //                active_slide.animate().x(active_slide.getWidth()*position);
             }
-
+//d
             @Override
             public void onPageScrollStateChanged(int state) {
 
